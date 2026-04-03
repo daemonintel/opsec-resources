@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/github/stars/daemonintel/osint-resources">
 </p>
 
-## OPSEC Resources
+### OPSEC Resources
 
 Repositório criado com o objetivo de compartilhar navegadores, extensões, sistemas operacionais e recursos voltados para privacidade, anonimato, segurança e OPSEC.
 
 ---
 
-## Extensões - Firefox
+### Extensões - Firefox
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) — bloqueador de conteúdo de amplo espectro, com foco em eficiência de CPU e memória.
 - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) — controle total sobre conexões, downloads e execução de conteúdo no navegador.
@@ -42,7 +42,7 @@ Repositório criado com o objetivo de compartilhar navegadores, extensões, sist
 
 ---
 
-## Extensões - Chrome
+### Extensões - Chrome
 
 Chrome não é ideal para privacidade e OPSEC. Apesar de possuir algumas extensões similares, a cobertura é limitada.
 
@@ -53,7 +53,7 @@ Chrome não é ideal para privacidade e OPSEC. Apesar de possuir algumas extens�
 
 ---
 
-## Navegadores para privacidade
+### Navegadores para privacidade
 
 - [Brave](https://brave.com/download/) — baseado em Chromium, com bloqueio nativo de anúncios, trackers e proteção contra fingerprinting. Possui modo Tor integrado.
 - [LibreWolf](https://librewolf.net/) — Firefox hardenizado, sem telemetria e com limpeza automática de dados.
@@ -62,7 +62,7 @@ Chrome não é ideal para privacidade e OPSEC. Apesar de possuir algumas extens�
 
 ---
 
-## VPNs
+### VPNs
 
 Evite VPNs gratuitas e soluções baseadas apenas em marketing. Prefira serviços sem logs, com mínimo de coleta de dados e suporte a WireGuard.
 
@@ -72,7 +72,7 @@ Evite VPNs gratuitas e soluções baseadas apenas em marketing. Prefira serviço
 
 ---
 
-## DNS
+### DNS
 
 DNS pode ocultar parcialmente sua navegação do provedor, mas adiciona uma nova camada de confiança em terceiros.
 
@@ -82,7 +82,7 @@ DNS pode ocultar parcialmente sua navegação do provedor, mas adiciona uma nova
 
 ---
 
-## Sistemas operacionais
+### Sistemas operacionais
 
 - [Tails OS](https://tails.net/) — sistema live via USB, todo o tráfego é roteado pela rede Tor.
 - [Qubes OS](https://www.qubes-os.org/) — isolamento baseado em máquinas virtuais para compartimentalização extrema.
@@ -90,5 +90,7 @@ DNS pode ocultar parcialmente sua navegação do provedor, mas adiciona uma nova
 - [GrapheneOS](https://grapheneos.org/) — Android modificado com foco em segurança, hardening e sandboxing, sem serviços Google por padrão.
 
 ---
+
+## Contribuições
 
 Contribuições de qualquer tipo são bem-vindas. Consulte [contribuições](CONTRIBUTING.md)
