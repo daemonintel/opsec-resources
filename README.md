@@ -5,6 +5,10 @@
 <hr style="border: none; height: 1px; background-color: #30363d; opacity: 0.5; margin: 24px 0;">
 
 <p align="center">
+  <small>OPSEC (Operations Security)</small>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/license/daemonintel/osint-resources">
   <img src="https://img.shields.io/github/contributors/daemonintel/osint-resources">
   <img src="https://img.shields.io/github/issues/daemonintel/osint-resources">
@@ -93,4 +97,4 @@ DNS pode ocultar parcialmente sua navegação do provedor, mas adiciona uma nova
 
 ## Contribuições
 
-Contribuições de qualquer tipo são bem-vindas. Consulte [contribuições](CONTRIBUTING.md)
+Contribuições de qualquer tipo são bem-vindas. Consulte [contribuições](CONTRIBUTING.md).
