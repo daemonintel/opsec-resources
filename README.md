@@ -1,22 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daemonintel/opsec-resources/main/assets/iLoveIMG.png" width="400">
-</p>
-
-<hr style="border: none; height: 1px; background-color: #30363d; opacity: 0.5; margin: 24px 0;">
-
-<p align="center">
-  <small>OPSEC (Operations Security)</small>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/daemonintel/osint-resources">
-  <img src="https://img.shields.io/github/contributors/daemonintel/osint-resources">
-  <img src="https://img.shields.io/github/issues/daemonintel/osint-resources">
-  <img src="https://img.shields.io/github/discussions/daemonintel/osint-resources">
-  <img src="https://img.shields.io/github/forks/daemonintel/osint-resources">
-  <img src="https://img.shields.io/github/stars/daemonintel/osint-resources">
-</p>
-
 ### OPSEC Resources
 
 Repositório criado com o objetivo de compartilhar navegadores, extensões, sistemas operacionais e recursos voltados para privacidade, anonimato, segurança e OPSEC.
